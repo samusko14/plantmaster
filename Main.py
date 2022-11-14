@@ -1,0 +1,1 @@
+#toto bude skript ktory budeme pushovat do Raspi a bude ovladat zalievanie vody
